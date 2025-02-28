@@ -51,7 +51,7 @@ cd weather-app
    - After deployment, you will get a live URL for your weather app.
 
 ## App Link
-- **Live Demo**: [Weather App](https://dazzling-tartufo-cacf4c.netlify.app/)
+- **Live Demo**: [Weather App](https://bespoke-cocada-72de0f.netlify.app/)   
 
 ## Key Features:
 - Step-by-step deployment guide for frontend setup.
