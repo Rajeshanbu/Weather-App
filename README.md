@@ -9,7 +9,7 @@ A fully functional Weather Web App that provides real-time weather updates for a
 - Hosted on Netlify
 
 ## Tech Stack
-- **Frontend**: React, Vite (Hosted on Netlify)
+- **Frontend**: React, Vite **(Hosted on Netlify)**
 - **API**: OpenWeatherMap API
 
 ## Setup Instructions
